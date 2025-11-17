@@ -20,7 +20,6 @@ Given a set of short text entries (titles and contents), the task was to classif
 
 - **Preprocessing:**  
   - Combined title and content fields.
-  - Handled missing values.
   - Encoded target labels using `LabelEncoder`.
 
 - **Training Strategy:**  
